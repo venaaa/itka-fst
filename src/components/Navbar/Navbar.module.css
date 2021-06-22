@@ -1,0 +1,36 @@
+.nav {
+	grid-area: nav;
+	display: flex;
+	background-color: #00021C;
+	flex-direction: column;
+	/* grid-row-start: 2;
+	grid-row-end: 2;
+	grid-auto-rows: 50px;
+	justify-content: center;
+	align-items: center;
+	text-align: center; */
+	flex-wrap: wrap;
+	/* align-items: start; */
+}
+
+.item a{
+	color: #FFD600;
+	text-decoration: none;
+	font-weight: 700;
+	font-size: 30px;
+}
+
+.item a.active {
+	color: #DB0135;
+}
+
+.friends {
+	display: flex;
+	flex-direction: column;
+	margin-top: 20%;
+}
+
+.friendsItem {
+	margin-top: 100px;
+	display: flex;
+}

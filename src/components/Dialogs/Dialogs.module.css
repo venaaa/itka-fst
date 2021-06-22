@@ -1,0 +1,44 @@
+.dialogs {
+	display: flex;
+	padding: 2%;
+}
+
+.dialogsItems {
+	padding: 10px;
+}
+
+.active {
+	font-size: 32px;
+	color: #DB0135 !important;
+}
+
+.dialog	 a{
+	margin-top: 10px;
+	display: flex;
+	align-items: center;
+	text-decoration: none;
+	font-weight: 700;
+	color: #FFD600;
+}
+
+.dialog img {
+	width: 50px;
+	border-radius: 30px;
+}
+
+.name {
+	margin-left: 5%;
+}
+
+.messages {
+	padding: 0 10%;
+}
+
+.message {
+	font-weight: 700;
+	color: #00F05F;
+}
+
+.messageInput {
+	margin-left: 20%;
+}

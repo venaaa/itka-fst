@@ -1,0 +1,10 @@
+.posts {
+	padding: 20px;
+	border: 2px solid red;
+}
+
+.otherposts {
+	border: 2px solid greenyellow;
+	padding: 2%;
+	color: grey;
+}

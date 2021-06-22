@@ -1,0 +1,16 @@
+.item {
+	color: #000;
+}
+
+.item img {
+	width: 50px;
+	border-radius: 30px;
+}
+
+.like {
+	color: black;
+	text-shadow: 0 0 10px #fff;
+	text-align: end;
+	font-weight: 700;
+	font-size: 1.2em;
+}
